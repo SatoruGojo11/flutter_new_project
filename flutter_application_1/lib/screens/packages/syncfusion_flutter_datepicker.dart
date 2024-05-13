@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_new_project/utils/text.dart';
+import 'package:flutter_application_1/utils/text.dart';
 
 class SyncfusionFlutterDatePickerScreen extends StatefulWidget {
   const SyncfusionFlutterDatePickerScreen({super.key});

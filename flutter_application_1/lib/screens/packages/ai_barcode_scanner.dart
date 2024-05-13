@@ -1,6 +1,6 @@
 import 'package:ai_barcode_scanner/ai_barcode_scanner.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_new_project/utils/text.dart';
+import 'package:flutter_application_1/utils/text.dart';
 
 class AiBarCodeScannerScreen extends StatefulWidget {
   const AiBarCodeScannerScreen({super.key});

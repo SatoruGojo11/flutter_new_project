@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_new_project/screens/getx_project/controllers/main_screen_controller.dart';
-import 'package:flutter_new_project/screens/getx_project/screens/first_screen.dart';
-import 'package:flutter_new_project/screens/getx_project/screens/second_screen.dart';
-import 'package:flutter_new_project/utils/text.dart';
+import 'package:flutter_application_1/screens/getx_project/controllers/main_screen_controller.dart';
+import 'package:flutter_application_1/screens/getx_project/screens/first_screen.dart';
+import 'package:flutter_application_1/screens/getx_project/screens/second_screen.dart';
+import 'package:flutter_application_1/utils/text.dart';
 import 'package:get/get.dart';
 
 class MainScreen extends StatelessWidget {
